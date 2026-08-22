@@ -1,0 +1,6 @@
+{
+  "name": "Kadja Player",
+  "description": "A modern, sleek, and high-performance Android music player with offline playback, smart playlists, audio effects, and elegant dark mode UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
